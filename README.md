@@ -64,6 +64,7 @@ Inicialmente comenzamos a definir los aspectos generales de los documentos conte
 Dentro de body: before definen las propiedades de este pseudo-elemento. Se 
 establece una imagen de fondo repetida horizontalmente, con un tamaño de 80px y una 
 opacidad de 0.7. También se aplica una rotación de 10 grados y se ajusta la posición y el tamaño.
+
 El selector h1 aplica estilos a los elementos h1 de la página, centrando el texto y añadiendo un padding de20px en la parte superior e inferior.
 
 El selector #articulos-container aplica estilos al contenedor de los artículos, utilizando flexbox para centrar y alinear los elementos en el centro. Además, se añade un padding de 20px.
