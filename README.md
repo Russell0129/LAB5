@@ -136,4 +136,4 @@ Añadimos una pregunta que refleja si inner.HTML es igual estrean vacío incorpo
 Añadimos un evento clic al botón para ejecutar añadimos una constante para filtrar.
 
 Añadimos un evento keyup en el formulario para que cada que el usuario escriba algo se valla ejecutando la función filtrar.
- selectores. articulo-card h3, articulo-card img y .articulo-cara p aplican estilos a los elementos <h3>, <img> y <p> ajustando márgenes y tamaños.
+ selectores. articulo-card h3, articulo-card img y .articulo-cara p aplican estilos a los elementos h3, img y p ajustando márgenes y tamaños.
