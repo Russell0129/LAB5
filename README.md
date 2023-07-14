@@ -77,9 +77,9 @@ El selector de búsqueda define las propiedades del panel en el que se reflejan 
 
 El selector. articulo-card aplica estilos a las tarjetas de artículo, que son elementos con la clase "articulo-card". Se establece un tamaño flexible con flex-basis y flex-grow, se añaden márgenes, un color de fondo, una sombra y una transición cuando se realiza el desplazamiento del ratón.
 
-El selector. articulo-card: hover define los estilos cuando el ratón se desplaza sobre las tarjetas de artículo, aplicando una transformación de escala en cada una de las tarjetas
+El selector. articulo-card hover define los estilos cuando el ratón se desplaza sobre las tarjetas de artículo, aplicando una transformación de escala en cada una de las tarjetas
 
-Los selectores. articulo-card h3, articulo-card img y .articulo-cara p aplican estilos a los elementos <h3>, <img> y <p> ajustando márgenes y tamaños.
+Los selectores. articulo-card h3, articulo-card img y .articulo-card p aplican estilos a los elementos h3 , img y p ajustando márgenes y tamaños.
 
 Los selectores relacionados con el modal (. modal,. modal-contento, .close, .modal-imagen, #modal-contenido) establecen estilos para el funcionamiento del modal emergente, como su posición, apariencia, márgenes y tamaño.
 El media query @media screen and (max-width: 600px) establece estilos específicos para dispositivos con un ancho de pantalla máximo de 600px. Ajusta los márgenes y el tamaño del contenido del modal y de la imagen para adaptarse mejor a pantallas más pequeñas.
